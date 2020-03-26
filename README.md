@@ -52,7 +52,7 @@ O Be the hero é um projeto que visa centralizar casos diversos de animais que o
 
 Você pode importar em seu insomnia o workspace desse projeto que está localizado em: src/environment/insomnia.json
 
-Para importar abra o software Insomnia - [Download](https://insomnia.rest/download/) faça: 
+Para importar abra o software Insomnia - [Link para Download](https://insomnia.rest/download/) e faça: 
  * Clique em Insomnia (Nome do workspace atual)
  * Clique em Import/Export
  * Selecione a aba Data
